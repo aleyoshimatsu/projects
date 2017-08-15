@@ -28,7 +28,7 @@ def foo(arg):
     print('foo', arg)
 
 
-foo("teste")
+foo("teste2")
 
 
 @DecoratorClass
