@@ -8,7 +8,7 @@ class MeuPrograma(App):
 
     def build(self):
         l = Label()
-        l.text = "Minha Tela OO"
+        l.text = "Minha Tela OO, usando class"
         return l
 
 
